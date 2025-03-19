@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grlyntng
 - Honours Degree in Software Engineering
-- Background in Business Analysis, Data Engineering and Analysis
+- Background in Business Analysis, Data Engineering and Analysis, Testing
 - Dabbling in Django, React, AWS, and Tableau
 
 - Learning is an unending pursuit
